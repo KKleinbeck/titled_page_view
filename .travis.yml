@@ -1,0 +1,7 @@
+env:
+- SHARD=dartfmt
+install:
+- ./dev/bots/travis_install.sh
+language: dart
+script:
+- ./dev/bots/travis_script.sh
