@@ -12,5 +12,5 @@ tar xf ~/development/flutter_linux_v1.0.0-stable.tar.xz
 export PATH=~/development/flutter/bin:$PATH
 
 
-cd $ROOT/package
+cd $ROOT
 flutter packages get
