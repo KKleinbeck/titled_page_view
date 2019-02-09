@@ -1,6 +1,8 @@
 # titled_page_view
 A Flutter PageView with an additional title bar and optional controls.
 
+[![Build Status](https://travis-ci.org/KKleinbeck/titled_page_view.svg?branch=master)](https://travis-ci.org/KKleinbeck/titled_page_view)
+
 # Showcase
 
 
