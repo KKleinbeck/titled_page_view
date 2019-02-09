@@ -11,5 +11,5 @@ if [[ "$SHARD" == "dartfmt" ]]; then
 else
   # tests shard
   cd $ROOT/package
-  flutter --no-color test --machine --start-paused test/infinity_page_view_test.dart || exit $?
+  flutter --no-color test --machine --start-paused test/titled_page_view_test.dart || exit $?
 fi
