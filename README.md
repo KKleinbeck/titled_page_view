@@ -19,7 +19,7 @@ First, add the package to your pubspec.yaml:
 
     dependencies:
      ...
-     titled_page_view: ^0.1.0
+     titled_page_view: ^0.1.1
 
 ```
 
@@ -56,7 +56,7 @@ Now you can use `TitledPageView` like Flutters's `PageView`
 
  ## Interface
 
- `TitledPageView` is build around Flutter's [`PageView`](https://docs.flutter.io/flutter/widgets/PageView-class.html). Therefore, many have the same name and work
+ `TitledPageView` is build around Flutter's [`PageView`](https://docs.flutter.io/flutter/widgets/PageView-class.html). Therefore, many options have the same name and work
  exactly the same. The only two additional options are `fadeEffect` and `controlButtons`, which
  add optional fading effects and controls to the title, respectively. Currently, both the fade
  animation and the buttons (`chevron_left`/`chevron_right`) are hard coded. Lastly, the code is

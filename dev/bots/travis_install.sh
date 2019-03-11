@@ -13,4 +13,3 @@ export PATH=~/development/flutter/bin:$PATH
 
 
 cd $ROOT
-flutter packages get
